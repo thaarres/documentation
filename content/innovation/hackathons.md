@@ -79,6 +79,10 @@ Code is provided at [this GitHub organisation](https://github.com/CMS-GNN-Tracki
 
 ## Anomaly detection
 
+19 Jul 2021 - 22 Jul 2021
+
+https://indico.cern.ch/e/adhack
+
 In this four day Machine Learning Hackathon, we will develop new anomaly detection algorithms for New Physics detection, intended for deployment in the two main stages of the CMS data aquisition system: The Level-1 trigger and the High Level Trigger.
 
 There are two main projects:
